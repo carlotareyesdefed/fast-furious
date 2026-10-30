@@ -1,7 +1,7 @@
 Tesla
 Mitsubishi
 Jaecco
-Seat Ibiza
+Seat Ibiza 2022
 Renault Clio
 Ford Fiesta
 Toyota Corolla
@@ -11,3 +11,5 @@ Peugeot 208
 Kia Rio
 Hyundai i20
 Opel Corsa
+Mazda 3
+Citroen C3
